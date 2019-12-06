@@ -3,4 +3,6 @@
 
 front-end: React 
 
+npm start (open a new windows and run the front-end code.) 
+
 back-end: Python 
